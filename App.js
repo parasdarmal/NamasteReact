@@ -1,5 +1,8 @@
 //const heading = React.createElement("h1", {id: "heading"}, "hello world from React!");
 //empty object can be used to give attributes
+import React from "react";
+import ReactDOM from "react-dom";
+
 const parent = React.createElement(
     "div", 
     {id: "parent"}, 
